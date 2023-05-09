@@ -3,4 +3,4 @@ Git is a free software distributed under the GPL
 Git has a stage
 Git is perffect and i like it
 This is a change for github
-Creating a branch is quick AND simple
+Creating a branch is quick and simple haha
